@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - PickUp
+  - TimeBoost
+  - SpeedBoost
+  - MazeWall
   layers:
   - Default
   - TransparentFX
